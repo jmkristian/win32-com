@@ -1,5 +1,5 @@
 # win32-com
-Software to access a Windows COM port
+Windows software to access a COM port
 
 The program comProxy aims to simplify I/O through a COM port.
 It transmits to the COM port any data it reads from the standard input stream,
